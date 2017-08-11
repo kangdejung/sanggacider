@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dungzi.sanggacider" version="1" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.dungzi.sanggacider" version="2" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
     <name>상가사이다</name>
     <description>
         상가사이다
